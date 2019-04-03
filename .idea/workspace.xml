@@ -1,0 +1,1048 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="43b087f4-3d89-4624-8b32-0fddd7398b38" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="SliceReMapping.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/service/SliceReMapping.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/service/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SliceMapping.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/service/SliceMapping.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="26">
+              <caret line="26" column="12" lean-forward="false" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrintStream.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/soft/JDK/src.zip!/java/io/PrintStream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="609">
+              <caret line="793" column="9" lean-forward="true" selection-start-line="793" selection-start-column="9" selection-end-line="793" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>StdIn</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/data/graphEg.txt" />
+        <option value="$PROJECT_DIR$/src/bin/StdOut.java" />
+        <option value="$PROJECT_DIR$/src/bin/Bag.java" />
+        <option value="$PROJECT_DIR$/src/bin/Stack.java" />
+        <option value="$PROJECT_DIR$/src/bin/StdIn.java" />
+        <option value="$PROJECT_DIR$/src/bin/z_readme.md" />
+        <option value="$PROJECT_DIR$/src/bin/Graph.java" />
+        <option value="$PROJECT_DIR$/src/bin/DirectedEdge.java" />
+        <option value="$PROJECT_DIR$/src/bin/StdRandom.java" />
+        <option value="$PROJECT_DIR$/src/bin/IndexMinPQ.java" />
+        <option value="$PROJECT_DIR$/src/bin/EdgeWeightedDigraph.java" />
+        <option value="$PROJECT_DIR$/src/data/ewGraphEg.txt" />
+        <option value="$PROJECT_DIR$/src/bin/DijkstraSP.java" />
+        <option value="$PROJECT_DIR$/src/resource/vLInk.java" />
+        <option value="$PROJECT_DIR$/src/bin/In.java" />
+        <option value="$PROJECT_DIR$/src/bin/Selection.java" />
+        <option value="$PROJECT_DIR$/src/resource/vSlice.java" />
+        <option value="$PROJECT_DIR$/src/data/sliceRequest.txt" />
+        <option value="$PROJECT_DIR$/src/resource/vLink.java" />
+        <option value="$PROJECT_DIR$/src/service/SliceMapping.java" />
+        <option value="$PROJECT_DIR$/src/data/simpleGraph.txt" />
+        <option value="$PROJECT_DIR$/src/service/getResource.java" />
+        <option value="$PROJECT_DIR$/src/service/SliceReMapping.java" />
+        <option value="$PROJECT_DIR$/src/service/test.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="358" />
+    <option name="y" value="-8" />
+    <option name="width" value="1400" />
+    <option name="height" value="809" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SlicingSimulation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SlicingSimulation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SlicingSimulation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SlicingSimulation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SlicingSimulation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SlicingSimulation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SlicingSimulation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SlicingSimulation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SlicingSimulation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SlicingSimulation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="resource" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SlicingSimulation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SlicingSimulation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.test">
+    <configuration name="DijkstraSP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="bin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="bin.DijkstraSP" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SlicingSimulation" />
+      <envs />
+    </configuration>
+    <configuration name="In" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="bin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="bin.In" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SlicingSimulation" />
+      <envs />
+    </configuration>
+    <configuration name="SliceMapping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="service.SliceMapping" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SlicingSimulation" />
+      <envs />
+    </configuration>
+    <configuration name="getResource" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="service.getResource" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SlicingSimulation" />
+      <envs />
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="service.test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SlicingSimulation" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.DijkstraSP" />
+      <item index="1" class="java.lang.String" itemvalue="Application.In" />
+      <item index="2" class="java.lang.String" itemvalue="Application.getResource" />
+      <item index="3" class="java.lang.String" itemvalue="Application.SliceMapping" />
+      <item index="4" class="java.lang.String" itemvalue="Application.test" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.test" />
+        <item index="1" class="java.lang.String" itemvalue="Application.DijkstraSP" />
+        <item index="2" class="java.lang.String" itemvalue="Application.SliceMapping" />
+        <item index="3" class="java.lang.String" itemvalue="Application.getResource" />
+        <item index="4" class="java.lang.String" itemvalue="Application.In" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43b087f4-3d89-4624-8b32-0fddd7398b38" name="Default" comment="" />
+      <created>1554251785259</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554251785259</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29268292" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14658849" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39891306" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997879" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29268292" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14322917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="13" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/data/graphEg.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/bin/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bin/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1976">
+          <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#649#650#0" expanded="false" />
+            <element signature="e#685#686#0" expanded="false" />
+            <element signature="e#832#833#0" expanded="false" />
+            <element signature="e#856#857#0" expanded="false" />
+            <element signature="e#2612#2613#0" expanded="false" />
+            <element signature="e#2664#2665#0" expanded="false" />
+            <element signature="e#2882#2883#0" expanded="false" />
+            <element signature="e#2921#2922#0" expanded="false" />
+            <element signature="e#2957#2958#0" expanded="false" />
+            <element signature="e#3003#3004#0" expanded="false" />
+            <element signature="e#3035#3036#0" expanded="false" />
+            <element signature="e#3100#3101#0" expanded="false" />
+            <element signature="e#3513#3521#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bin/z_readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bin/StdOut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1512">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="initializer##0;class#StdOut#0" expanded="false" />
+            <element signature="method#StdOut#0;class#StdOut#0" expanded="false" />
+            <element signature="docComment;method#close#0;class#StdOut#0" expanded="false" />
+            <element signature="docComment;method#println#0;class#StdOut#0" expanded="false" />
+            <element signature="docComment;method#println#1;class#StdOut#0" expanded="false" />
+            <element signature="docComment;method#println#2;class#StdOut#0" expanded="false" />
+            <element signature="docComment;method#println#3;class#StdOut#0" expanded="false" />
+            <element signature="docComment;method#println#4;class#StdOut#0" expanded="false" />
+            <element signature="docComment;method#println#5;class#StdOut#0" expanded="false" />
+            <element signature="docComment;method#println#6;class#StdOut#0" expanded="false" />
+            <element signature="docComment;method#println#7;class#StdOut#0" expanded="false" />
+            <element signature="docComment;method#println#8;class#StdOut#0" expanded="false" />
+            <element signature="docComment;method#println#9;class#StdOut#0" expanded="false" />
+            <element signature="docComment;method#print#0;class#StdOut#0" expanded="false" />
+            <element signature="docComment;method#print#1;class#StdOut#0" expanded="false" />
+            <element signature="method#print#1;class#StdOut#0" expanded="false" />
+            <element signature="docComment;method#print#2;class#StdOut#0" expanded="false" />
+            <element signature="method#print#2;class#StdOut#0" expanded="false" />
+            <element signature="docComment;method#print#3;class#StdOut#0" expanded="false" />
+            <element signature="method#print#3;class#StdOut#0" expanded="false" />
+            <element signature="docComment;method#print#4;class#StdOut#0" expanded="false" />
+            <element signature="method#print#4;class#StdOut#0" expanded="false" />
+            <element signature="docComment;method#print#5;class#StdOut#0" expanded="false" />
+            <element signature="method#print#5;class#StdOut#0" expanded="false" />
+            <element signature="docComment;method#print#6;class#StdOut#0" expanded="false" />
+            <element signature="method#print#6;class#StdOut#0" expanded="false" />
+            <element signature="docComment;method#print#7;class#StdOut#0" expanded="false" />
+            <element signature="method#print#7;class#StdOut#0" expanded="false" />
+            <element signature="docComment;method#print#8;class#StdOut#0" expanded="false" />
+            <element signature="method#print#8;class#StdOut#0" expanded="false" />
+            <element signature="docComment;method#print#9;class#StdOut#0" expanded="false" />
+            <element signature="method#print#9;class#StdOut#0" expanded="false" />
+            <element signature="docComment;method#printf#0;class#StdOut#0" expanded="false" />
+            <element signature="method#printf#0;class#StdOut#0" expanded="false" />
+            <element signature="docComment;method#printf#1;class#StdOut#0" expanded="false" />
+            <element signature="method#printf#1;class#StdOut#0" expanded="false" />
+            <element signature="docComment;method#main#0;class#StdOut#0" expanded="false" />
+            <element signature="method#main#0;class#StdOut#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bin/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="217" column="1" lean-forward="true" selection-start-line="217" selection-start-column="1" selection-end-line="217" selection-end-column="1" />
+          <folding>
+            <element signature="docComment;method#Graph#0;class#Graph#0" expanded="false" />
+            <element signature="method#Graph#0;class#Graph#0" expanded="false" />
+            <element signature="docComment;method#Graph#1;class#Graph#0" expanded="false" />
+            <element signature="method#Graph#1;class#Graph#0" expanded="false" />
+            <element signature="docComment;method#Graph#2;class#Graph#0" expanded="false" />
+            <element signature="method#Graph#2;class#Graph#0" expanded="false" />
+            <element signature="docComment;method#V#0;class#Graph#0" expanded="false" />
+            <element signature="docComment;method#E#0;class#Graph#0" expanded="false" />
+            <element signature="method#validateVertex#0;class#Graph#0" expanded="false" />
+            <element signature="docComment;method#addEdge#0;class#Graph#0" expanded="false" />
+            <element signature="method#addEdge#0;class#Graph#0" expanded="false" />
+            <element signature="docComment;method#adj#0;class#Graph#0" expanded="false" />
+            <element signature="method#adj#0;class#Graph#0" expanded="false" />
+            <element signature="docComment;method#degree#0;class#Graph#0" expanded="false" />
+            <element signature="method#degree#0;class#Graph#0" expanded="false" />
+            <element signature="docComment;method#toString#0;class#Graph#0" expanded="false" />
+            <element signature="method#toString#0;class#Graph#0" expanded="false" />
+            <element signature="docComment;method#main#0;class#Graph#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bin/StdRandom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2525">
+          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding>
+            <element signature="docComment;class#StdRandom#0" expanded="false" />
+            <element signature="initializer##0;class#StdRandom#0" expanded="false" />
+            <element signature="method#StdRandom#0;class#StdRandom#0" expanded="false" />
+            <element signature="docComment;method#setSeed#0;class#StdRandom#0" expanded="false" />
+            <element signature="method#setSeed#0;class#StdRandom#0" expanded="false" />
+            <element signature="docComment;method#getSeed#0;class#StdRandom#0" expanded="false" />
+            <element signature="docComment;method#uniform#0;class#StdRandom#0" expanded="false" />
+            <element signature="docComment;method#uniform#1;class#StdRandom#0" expanded="false" />
+            <element signature="method#uniform#1;class#StdRandom#0" expanded="false" />
+            <element signature="docComment;method#uniform#2;class#StdRandom#0" expanded="false" />
+            <element signature="method#uniform#2;class#StdRandom#0" expanded="false" />
+            <element signature="e#5097#5172#0" expanded="false" />
+            <element signature="docComment;method#random#0;class#StdRandom#0" expanded="false" />
+            <element signature="docComment;method#uniform#3;class#StdRandom#0" expanded="false" />
+            <element signature="method#uniform#3;class#StdRandom#0" expanded="false" />
+            <element signature="docComment;method#uniform#4;class#StdRandom#0" expanded="false" />
+            <element signature="method#uniform#4;class#StdRandom#0" expanded="false" />
+            <element signature="docComment;method#bernoulli#0;class#StdRandom#0" expanded="false" />
+            <element signature="method#bernoulli#0;class#StdRandom#0" expanded="false" />
+            <element signature="docComment;method#bernoulli#1;class#StdRandom#0" expanded="false" />
+            <element signature="docComment;method#gaussian#0;class#StdRandom#0" expanded="false" />
+            <element signature="method#gaussian#0;class#StdRandom#0" expanded="false" />
+            <element signature="e#8185#8232#0" expanded="false" />
+            <element signature="docComment;method#gaussian#1;class#StdRandom#0" expanded="false" />
+            <element signature="docComment;method#geometric#0;class#StdRandom#0" expanded="false" />
+            <element signature="method#geometric#0;class#StdRandom#0" expanded="false" />
+            <element signature="docComment;method#poisson#0;class#StdRandom#0" expanded="false" />
+            <element signature="method#poisson#0;class#StdRandom#0" expanded="false" />
+            <element signature="e#10394#10427#0" expanded="false" />
+            <element signature="docComment;method#pareto#0;class#StdRandom#0" expanded="false" />
+            <element signature="docComment;method#pareto#1;class#StdRandom#0" expanded="false" />
+            <element signature="method#pareto#1;class#StdRandom#0" expanded="false" />
+            <element signature="docComment;method#cauchy#0;class#StdRandom#0" expanded="false" />
+            <element signature="docComment;method#discrete#0;class#StdRandom#0" expanded="false" />
+            <element signature="method#discrete#0;class#StdRandom#0" expanded="false" />
+            <element signature="e#13011#13090#0" expanded="false" />
+            <element signature="docComment;method#discrete#1;class#StdRandom#0" expanded="false" />
+            <element signature="method#discrete#1;class#StdRandom#0" expanded="false" />
+            <element signature="docComment;method#exp#0;class#StdRandom#0" expanded="false" />
+            <element signature="method#exp#0;class#StdRandom#0" expanded="false" />
+            <element signature="docComment;method#shuffle#0;class#StdRandom#0" expanded="false" />
+            <element signature="method#shuffle#0;class#StdRandom#0" expanded="false" />
+            <element signature="docComment;method#shuffle#1;class#StdRandom#0" expanded="false" />
+            <element signature="method#shuffle#1;class#StdRandom#0" expanded="false" />
+            <element signature="docComment;method#shuffle#2;class#StdRandom#0" expanded="false" />
+            <element signature="method#shuffle#2;class#StdRandom#0" expanded="false" />
+            <element signature="docComment;method#shuffle#3;class#StdRandom#0" expanded="false" />
+            <element signature="method#shuffle#3;class#StdRandom#0" expanded="false" />
+            <element signature="docComment;method#shuffle#4;class#StdRandom#0" expanded="false" />
+            <element signature="method#shuffle#4;class#StdRandom#0" expanded="false" />
+            <element signature="docComment;method#shuffle#5;class#StdRandom#0" expanded="false" />
+            <element signature="method#shuffle#5;class#StdRandom#0" expanded="false" />
+            <element signature="docComment;method#shuffle#6;class#StdRandom#0" expanded="false" />
+            <element signature="method#shuffle#6;class#StdRandom#0" expanded="false" />
+            <element signature="docComment;method#permutation#0;class#StdRandom#0" expanded="false" />
+            <element signature="method#permutation#0;class#StdRandom#0" expanded="false" />
+            <element signature="docComment;method#permutation#1;class#StdRandom#0" expanded="false" />
+            <element signature="method#permutation#1;class#StdRandom#0" expanded="false" />
+            <element signature="method#validateNotNull#0;class#StdRandom#0" expanded="false" />
+            <element signature="method#validateSubarrayIndices#0;class#StdRandom#0" expanded="false" />
+            <element signature="docComment;method#main#0;class#StdRandom#0" expanded="false" />
+            <element signature="method#main#0;class#StdRandom#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/ewGraphEg.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bin/Bag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="25" column="14" lean-forward="true" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#763#764#0" expanded="false" />
+            <element signature="e#799#800#0" expanded="false" />
+            <element signature="e#952#953#0" expanded="false" />
+            <element signature="e#976#977#0" expanded="false" />
+            <element signature="e#1525#1526#0" expanded="false" />
+            <element signature="e#1577#1578#0" expanded="false" />
+            <element signature="e#1795#1796#0" expanded="false" />
+            <element signature="e#1834#1835#0" expanded="false" />
+            <element signature="e#2403#2411#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bin/IndexMinPQ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="81" column="5" lean-forward="true" selection-start-line="81" selection-start-column="5" selection-end-line="81" selection-end-column="5" />
+          <folding>
+            <element signature="docComment;method#IndexMinPQ#0;class#IndexMinPQ#0" expanded="false" />
+            <element signature="method#IndexMinPQ#0;class#IndexMinPQ#0" expanded="false" />
+            <element signature="docComment;method#isEmpty#0;class#IndexMinPQ#0" expanded="false" />
+            <element signature="docComment;method#contains#0;class#IndexMinPQ#0" expanded="false" />
+            <element signature="method#contains#0;class#IndexMinPQ#0" expanded="false" />
+            <element signature="docComment;method#size#0;class#IndexMinPQ#0" expanded="false" />
+            <element signature="docComment;method#insert#0;class#IndexMinPQ#0" expanded="false" />
+            <element signature="method#insert#0;class#IndexMinPQ#0" expanded="false" />
+            <element signature="docComment;method#minIndex#0;class#IndexMinPQ#0" expanded="false" />
+            <element signature="method#minIndex#0;class#IndexMinPQ#0" expanded="false" />
+            <element signature="docComment;method#minKey#0;class#IndexMinPQ#0" expanded="false" />
+            <element signature="method#minKey#0;class#IndexMinPQ#0" expanded="false" />
+            <element signature="docComment;method#delMin#0;class#IndexMinPQ#0" expanded="false" />
+            <element signature="method#delMin#0;class#IndexMinPQ#0" expanded="false" />
+            <element signature="docComment;method#keyOf#0;class#IndexMinPQ#0" expanded="false" />
+            <element signature="method#keyOf#0;class#IndexMinPQ#0" expanded="false" />
+            <element signature="docComment;method#changeKey#0;class#IndexMinPQ#0" expanded="false" />
+            <element signature="method#changeKey#0;class#IndexMinPQ#0" expanded="false" />
+            <element signature="docComment;method#change#0;class#IndexMinPQ#0" expanded="false" />
+            <element signature="docComment;method#decreaseKey#0;class#IndexMinPQ#0" expanded="false" />
+            <element signature="method#decreaseKey#0;class#IndexMinPQ#0" expanded="false" />
+            <element signature="docComment;method#increaseKey#0;class#IndexMinPQ#0" expanded="false" />
+            <element signature="method#increaseKey#0;class#IndexMinPQ#0" expanded="false" />
+            <element signature="docComment;method#delete#0;class#IndexMinPQ#0" expanded="false" />
+            <element signature="method#delete#0;class#IndexMinPQ#0" expanded="false" />
+            <element signature="docComment;method#greater#0;class#IndexMinPQ#0" expanded="false" />
+            <element signature="method#exch#0;class#IndexMinPQ#0" expanded="false" />
+            <element signature="docComment;method#swim#0;class#IndexMinPQ#0" expanded="false" />
+            <element signature="method#swim#0;class#IndexMinPQ#0" expanded="false" />
+            <element signature="method#sink#0;class#IndexMinPQ#0" expanded="false" />
+            <element signature="docComment;method#iterator#0;class#IndexMinPQ#0" expanded="false" />
+            <element signature="method#iterator#0;class#IndexMinPQ#0" expanded="false" />
+            <element signature="class#HeapIterator#0;class#IndexMinPQ#0" expanded="false" />
+            <element signature="method#HeapIterator#0;class#HeapIterator#0;class#IndexMinPQ#0" expanded="false" />
+            <element signature="method#hasNext#0;class#HeapIterator#0;class#IndexMinPQ#0" expanded="false" />
+            <element signature="method#remove#0;class#HeapIterator#0;class#IndexMinPQ#0" expanded="false" />
+            <element signature="method#next#0;class#HeapIterator#0;class#IndexMinPQ#0" expanded="false" />
+            <element signature="docComment;method#main#0;class#IndexMinPQ#0" expanded="false" />
+            <element signature="method#main#0;class#IndexMinPQ#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resource/vNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resource/pPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/simpleGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/graphEg.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bin/In.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="648" column="34" lean-forward="true" selection-start-line="648" selection-start-column="34" selection-end-line="648" selection-end-column="34" />
+          <folding>
+            <element signature="docComment;method#In#0;class#In#0" expanded="false" />
+            <element signature="method#In#0;class#In#0" expanded="false" />
+            <element signature="docComment;method#In#1;class#In#0" expanded="false" />
+            <element signature="method#In#1;class#In#0" expanded="false" />
+            <element signature="docComment;method#In#2;class#In#0" expanded="false" />
+            <element signature="method#In#2;class#In#0" expanded="false" />
+            <element signature="docComment;method#In#3;class#In#0" expanded="false" />
+            <element signature="e#3831#3906#0" expanded="false" />
+            <element signature="docComment;method#In#4;class#In#0" expanded="false" />
+            <element signature="method#In#4;class#In#0" expanded="false" />
+            <element signature="e#4859#4934#0" expanded="false" />
+            <element signature="e#5644#5708#0" expanded="false" />
+            <element signature="docComment;method#In#5;class#In#0" expanded="false" />
+            <element signature="method#In#5;class#In#0" expanded="false" />
+            <element signature="docComment;method#exists#0;class#In#0" expanded="false" />
+            <element signature="e#6971#7037#0" expanded="false" />
+            <element signature="docComment;method#isEmpty#0;class#In#0" expanded="false" />
+            <element signature="docComment;method#hasNextLine#0;class#In#0" expanded="false" />
+            <element signature="docComment;method#hasNextChar#0;class#In#0" expanded="false" />
+            <element signature="method#hasNextChar#0;class#In#0" expanded="false" />
+            <element signature="docComment;method#readLine#0;class#In#0" expanded="false" />
+            <element signature="method#readLine#0;class#In#0" expanded="false" />
+            <element signature="docComment;method#readChar#0;class#In#0" expanded="false" />
+            <element signature="method#readChar#0;class#In#0" expanded="false" />
+            <element signature="docComment;method#readAll#0;class#In#0" expanded="false" />
+            <element signature="docComment;method#readString#0;class#In#0" expanded="false" />
+            <element signature="method#readString#0;class#In#0" expanded="false" />
+            <element signature="docComment;method#readInt#0;class#In#0" expanded="false" />
+            <element signature="method#readInt#0;class#In#0" expanded="false" />
+            <element signature="docComment;method#readDouble#0;class#In#0" expanded="false" />
+            <element signature="method#readDouble#0;class#In#0" expanded="false" />
+            <element signature="docComment;method#readFloat#0;class#In#0" expanded="false" />
+            <element signature="method#readFloat#0;class#In#0" expanded="false" />
+            <element signature="docComment;method#readLong#0;class#In#0" expanded="false" />
+            <element signature="method#readLong#0;class#In#0" expanded="false" />
+            <element signature="docComment;method#readShort#0;class#In#0" expanded="false" />
+            <element signature="method#readShort#0;class#In#0" expanded="false" />
+            <element signature="docComment;method#readByte#0;class#In#0" expanded="false" />
+            <element signature="method#readByte#0;class#In#0" expanded="false" />
+            <element signature="docComment;method#readBoolean#0;class#In#0" expanded="false" />
+            <element signature="method#readBoolean#0;class#In#0" expanded="false" />
+            <element signature="docComment;method#readAllStrings#0;class#In#0" expanded="false" />
+            <element signature="method#readAllStrings#0;class#In#0" expanded="false" />
+            <element signature="e#17993#18058#0" expanded="false" />
+            <element signature="docComment;method#readAllLines#0;class#In#0" expanded="false" />
+            <element signature="method#readAllLines#0;class#In#0" expanded="false" />
+            <element signature="docComment;method#readAllInts#0;class#In#0" expanded="false" />
+            <element signature="method#readAllInts#0;class#In#0" expanded="false" />
+            <element signature="docComment;method#readAllLongs#0;class#In#0" expanded="false" />
+            <element signature="method#readAllLongs#0;class#In#0" expanded="false" />
+            <element signature="docComment;method#readAllDoubles#0;class#In#0" expanded="false" />
+            <element signature="method#readAllDoubles#0;class#In#0" expanded="false" />
+            <element signature="docComment;method#close#0;class#In#0" expanded="false" />
+            <element signature="docComment;method#readInts#0;class#In#0" expanded="false" />
+            <element signature="docComment;method#readDoubles#0;class#In#0" expanded="false" />
+            <element signature="docComment;method#readStrings#0;class#In#0" expanded="false" />
+            <element signature="docComment;method#readInts#1;class#In#0" expanded="false" />
+            <element signature="docComment;method#readDoubles#1;class#In#0" expanded="false" />
+            <element signature="docComment;method#readStrings#1;class#In#0" expanded="false" />
+            <element signature="docComment;method#main#0;class#In#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bin/Selection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="607">
+          <caret line="116" column="23" lean-forward="true" selection-start-line="116" selection-start-column="23" selection-end-line="116" selection-end-column="23" />
+          <folding>
+            <element signature="e#1507#1508#0" expanded="true" />
+            <element signature="e#1548#1549#0" expanded="true" />
+            <element signature="e#1644#1645#0" expanded="true" />
+            <element signature="e#1695#1696#0" expanded="true" />
+            <element signature="e#2169#2170#0" expanded="true" />
+            <element signature="e#2220#2221#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bin/StdIn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="docComment;class#StdIn#0" expanded="false" />
+            <element signature="docComment;field#CHARSET_NAME#0;class#StdIn#0" expanded="false" />
+            <element signature="docComment;field#scanner#0;class#StdIn#0" expanded="false" />
+            <element signature="method#StdIn#0;class#StdIn#0" expanded="false" />
+            <element signature="e#1212#1277#0" expanded="false" />
+            <element signature="docComment;method#isEmpty#0;class#StdIn#0" expanded="false" />
+            <element signature="docComment;method#hasNextLine#0;class#StdIn#0" expanded="false" />
+            <element signature="docComment;method#hasNextChar#0;class#StdIn#0" expanded="false" />
+            <element signature="method#hasNextChar#0;class#StdIn#0" expanded="false" />
+            <element signature="docComment;method#readLine#0;class#StdIn#0" expanded="false" />
+            <element signature="method#readLine#0;class#StdIn#0" expanded="false" />
+            <element signature="docComment;method#readChar#0;class#StdIn#0" expanded="false" />
+            <element signature="method#readChar#0;class#StdIn#0" expanded="false" />
+            <element signature="docComment;method#readAll#0;class#StdIn#0" expanded="false" />
+            <element signature="method#readAll#0;class#StdIn#0" expanded="false" />
+            <element signature="docComment;method#readString#0;class#StdIn#0" expanded="false" />
+            <element signature="method#readString#0;class#StdIn#0" expanded="false" />
+            <element signature="docComment;method#readInt#0;class#StdIn#0" expanded="false" />
+            <element signature="method#readInt#0;class#StdIn#0" expanded="false" />
+            <element signature="docComment;method#readDouble#0;class#StdIn#0" expanded="false" />
+            <element signature="method#readDouble#0;class#StdIn#0" expanded="false" />
+            <element signature="docComment;method#readFloat#0;class#StdIn#0" expanded="false" />
+            <element signature="method#readFloat#0;class#StdIn#0" expanded="false" />
+            <element signature="docComment;method#readLong#0;class#StdIn#0" expanded="false" />
+            <element signature="method#readLong#0;class#StdIn#0" expanded="false" />
+            <element signature="docComment;method#readShort#0;class#StdIn#0" expanded="false" />
+            <element signature="method#readShort#0;class#StdIn#0" expanded="false" />
+            <element signature="docComment;method#readByte#0;class#StdIn#0" expanded="false" />
+            <element signature="method#readByte#0;class#StdIn#0" expanded="false" />
+            <element signature="docComment;method#readBoolean#0;class#StdIn#0" expanded="false" />
+            <element signature="method#readBoolean#0;class#StdIn#0" expanded="false" />
+            <element signature="docComment;method#readAllStrings#0;class#StdIn#0" expanded="false" />
+            <element signature="method#readAllStrings#0;class#StdIn#0" expanded="false" />
+            <element signature="e#12066#12131#0" expanded="false" />
+            <element signature="docComment;method#readAllLines#0;class#StdIn#0" expanded="false" />
+            <element signature="method#readAllLines#0;class#StdIn#0" expanded="false" />
+            <element signature="docComment;method#readAllInts#0;class#StdIn#0" expanded="false" />
+            <element signature="method#readAllInts#0;class#StdIn#0" expanded="false" />
+            <element signature="docComment;method#readAllLongs#0;class#StdIn#0" expanded="false" />
+            <element signature="method#readAllLongs#0;class#StdIn#0" expanded="false" />
+            <element signature="docComment;method#readAllDoubles#0;class#StdIn#0" expanded="false" />
+            <element signature="method#readAllDoubles#0;class#StdIn#0" expanded="false" />
+            <element signature="initializer##0;class#StdIn#0" expanded="false" />
+            <element signature="docComment;method#resync#0;class#StdIn#0" expanded="false" />
+            <element signature="method#setScanner#0;class#StdIn#0" expanded="false" />
+            <element signature="docComment;method#readInts#0;class#StdIn#0" expanded="false" />
+            <element signature="docComment;method#readDoubles#0;class#StdIn#0" expanded="false" />
+            <element signature="docComment;method#readStrings#0;class#StdIn#0" expanded="false" />
+            <element signature="docComment;method#main#0;class#StdIn#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/JDK/src.zip!/java/util/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-920">
+          <caret line="82" column="13" lean-forward="false" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+          <folding>
+            <element signature="e#15508#15509#0" expanded="false" />
+            <element signature="e#15557#15558#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bin/EdgeWeightedDigraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="633">
+          <caret line="227" column="26" lean-forward="true" selection-start-line="227" selection-start-column="26" selection-end-line="227" selection-end-column="26" />
+          <folding>
+            <element signature="docComment;method#EdgeWeightedDigraph#0;class#EdgeWeightedDigraph#0" expanded="false" />
+            <element signature="method#EdgeWeightedDigraph#0;class#EdgeWeightedDigraph#0" expanded="false" />
+            <element signature="docComment;method#EdgeWeightedDigraph#1;class#EdgeWeightedDigraph#0" expanded="false" />
+            <element signature="method#EdgeWeightedDigraph#1;class#EdgeWeightedDigraph#0" expanded="false" />
+            <element signature="docComment;method#EdgeWeightedDigraph#2;class#EdgeWeightedDigraph#0" expanded="false" />
+            <element signature="method#EdgeWeightedDigraph#2;class#EdgeWeightedDigraph#0" expanded="false" />
+            <element signature="docComment;method#EdgeWeightedDigraph#3;class#EdgeWeightedDigraph#0" expanded="false" />
+            <element signature="method#EdgeWeightedDigraph#3;class#EdgeWeightedDigraph#0" expanded="false" />
+            <element signature="docComment;method#V#0;class#EdgeWeightedDigraph#0" expanded="false" />
+            <element signature="e#4279#4280#0" expanded="true" />
+            <element signature="e#4303#4304#0" expanded="true" />
+            <element signature="docComment;method#E#0;class#EdgeWeightedDigraph#0" expanded="false" />
+            <element signature="method#validateVertex#0;class#EdgeWeightedDigraph#0" expanded="false" />
+            <element signature="docComment;method#addEdge#0;class#EdgeWeightedDigraph#0" expanded="false" />
+            <element signature="method#addEdge#0;class#EdgeWeightedDigraph#0" expanded="false" />
+            <element signature="docComment;method#adj#0;class#EdgeWeightedDigraph#0" expanded="false" />
+            <element signature="method#adj#0;class#EdgeWeightedDigraph#0" expanded="false" />
+            <element signature="docComment;method#outdegree#0;class#EdgeWeightedDigraph#0" expanded="false" />
+            <element signature="method#outdegree#0;class#EdgeWeightedDigraph#0" expanded="false" />
+            <element signature="docComment;method#indegree#0;class#EdgeWeightedDigraph#0" expanded="false" />
+            <element signature="method#indegree#0;class#EdgeWeightedDigraph#0" expanded="false" />
+            <element signature="docComment;method#edges#0;class#EdgeWeightedDigraph#0" expanded="false" />
+            <element signature="method#edges#0;class#EdgeWeightedDigraph#0" expanded="false" />
+            <element signature="docComment;method#toString#0;class#EdgeWeightedDigraph#0" expanded="false" />
+            <element signature="method#toString#0;class#EdgeWeightedDigraph#0" expanded="false" />
+            <element signature="docComment;method#main#0;class#EdgeWeightedDigraph#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bin/DirectedEdge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding>
+            <element signature="docComment;method#DirectedEdge#0;class#DirectedEdge#0" expanded="false" />
+            <element signature="method#DirectedEdge#0;class#DirectedEdge#0" expanded="false" />
+            <element signature="docComment;method#from#0;class#DirectedEdge#0" expanded="false" />
+            <element signature="docComment;method#to#0;class#DirectedEdge#0" expanded="false" />
+            <element signature="docComment;method#weight#0;class#DirectedEdge#0" expanded="false" />
+            <element signature="docComment;method#toString#0;class#DirectedEdge#0" expanded="false" />
+            <element signature="docComment;method#main#0;class#DirectedEdge#0" expanded="false" />
+            <element signature="method#main#0;class#DirectedEdge#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/sliceRequest.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/simpleGraph.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/service/getResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="21" column="39" lean-forward="false" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bin/DijkstraSP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1456">
+          <caret line="215" column="9" lean-forward="true" selection-start-line="215" selection-start-column="9" selection-end-line="215" selection-end-column="9" />
+          <folding>
+            <element signature="docComment;method#DijkstraSP#0;class#DijkstraSP#0" expanded="false" />
+            <element signature="method#DijkstraSP#0;class#DijkstraSP#0" expanded="false" />
+            <element signature="method#relax#0;class#DijkstraSP#0" expanded="false" />
+            <element signature="docComment;method#distTo#0;class#DijkstraSP#0" expanded="false" />
+            <element signature="method#distTo#0;class#DijkstraSP#0" expanded="false" />
+            <element signature="docComment;method#hasPathTo#0;class#DijkstraSP#0" expanded="false" />
+            <element signature="method#hasPathTo#0;class#DijkstraSP#0" expanded="false" />
+            <element signature="docComment;method#pathTo#0;class#DijkstraSP#0" expanded="false" />
+            <element signature="method#pathTo#0;class#DijkstraSP#0" expanded="false" />
+            <element signature="method#check#0;class#DijkstraSP#0" expanded="false" />
+            <element signature="method#validateVertex#0;class#DijkstraSP#0" expanded="false" />
+            <element signature="docComment;method#main#0;class#DijkstraSP#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resource/vLink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding>
+            <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#584#585#0" expanded="true" />
+            <element signature="e#610#611#0" expanded="true" />
+            <element signature="e#635#636#0" expanded="true" />
+            <element signature="e#659#660#0" expanded="true" />
+            <element signature="e#690#691#0" expanded="true" />
+            <element signature="e#716#717#0" expanded="true" />
+            <element signature="e#782#783#0" expanded="true" />
+            <element signature="e#830#831#0" expanded="true" />
+            <element signature="e#870#871#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resource/vSlice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="34" column="47" lean-forward="true" selection-start-line="34" selection-start-column="47" selection-end-line="34" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1455#1456#0" expanded="true" />
+            <element signature="e#1491#1492#0" expanded="true" />
+            <element signature="e#1531#1532#0" expanded="true" />
+            <element signature="e#1560#1561#0" expanded="true" />
+            <element signature="e#1611#1612#0" expanded="true" />
+            <element signature="e#1647#1648#0" expanded="true" />
+            <element signature="e#1686#1687#0" expanded="true" />
+            <element signature="e#1716#1717#0" expanded="true" />
+            <element signature="e#1767#1768#0" expanded="true" />
+            <element signature="e#1805#1806#0" expanded="true" />
+            <element signature="e#1844#1845#0" expanded="true" />
+            <element signature="e#1874#1875#0" expanded="true" />
+            <element signature="e#1925#1926#0" expanded="true" />
+            <element signature="e#1963#1964#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/JDK/src.zip!/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="793" column="9" lean-forward="true" selection-start-line="793" selection-start-column="9" selection-end-line="793" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/service/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/service/SliceMapping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="26" column="12" lean-forward="false" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/service/SliceReMapping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
